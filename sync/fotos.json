@@ -1,0 +1,7 @@
+{
+  "_ayuda": "Regla de fotos del catalogo: se quitan las del protector Vaulted, se muestran hasta 'maxMuestra' fotos de muestra y 1 foto real (la tuya) si esta subida. Las firmas son 'tamano|max_size' de la foto en ML.",
+  "protector": ["422x500|422x500", "316x500|501x792", "316x500|500x789"],
+  "real": ["900x1200", "1200x900"],
+  "maxMuestra": 2,
+  "maxReales": 1
+}

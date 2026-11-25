@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luisadriangomez.github.io/funko-catalogo/sitemap.xml

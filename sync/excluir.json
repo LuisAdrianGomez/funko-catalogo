@@ -1,0 +1,4 @@
+{
+  "_ayuda": "Expresiones (sin distinguir mayusculas) de titulos que NO deben salir en el catalogo publico.",
+  "patrones": ["link de pago"]
+}
